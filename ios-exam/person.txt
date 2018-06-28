@@ -1,0 +1,64 @@
+{
+  "personList": [
+    {
+      "firstName": "Anne",
+      "lastName":"Stokes",
+      "birthday": "1990-05-22",
+      "emailAddress":"AnneJStokes@teleworm.us",
+      "mobileNumber":"09008761234",
+      "address": "2532 Pinnickinnick Street Keansburg, NJ 07734",
+      "contactPerson":"Mary Stokes",
+      "contactPersonPhoneNumber":"7327878495"
+    },
+    {
+      "firstName": "Jaxon",
+      "lastName":"Genders",
+      "birthday": "1983-06-19",
+      "emailAddress":"JaxonGenders@jourrapide.com",
+      "mobileNumber":"07959398126",
+      "address": "Waldowstr. 24 73489 Jagstzell",
+      "contactPerson":"Skye Iverson",
+      "contactPersonPhoneNumber":"09621475765"
+    },
+    {
+        "firstName": "Henry Ralph",
+        "lastName":"Cruz",
+        "birthday": "1943-12-01",
+        "emailAddress":"HRCruz@joinme.com",
+        "mobileNumber":"09876665123",
+        "address": "California",
+        "contactPerson":"King Cruz",
+        "contactPersonPhoneNumber":"876298467"
+    },
+    {
+        "firstName": "Joaana Marie",
+        "lastName":"Samson",
+        "birthday": "1963-04-22",
+        "emailAddress":"JoannaMarieSamson@heyhey.com",
+        "mobileNumber":"876390978",
+        "address": "Texas, USA",
+        "contactPerson":"Samson Samson",
+        "contactPersonPhoneNumber":"3456789012"
+    },
+    {
+        "firstName": "Jason Martin",
+        "lastName":"Gabriel",
+        "birthday": "1993-03-22",
+        "emailAddress":"JMGabriel@exm.com",
+        "mobileNumber":"98368404",
+        "address": "Siargao, Philippines",
+        "contactPerson":"Anthony Gabriel",
+        "contactPersonPhoneNumber":"345677"
+    },
+    {
+        "firstName": "Shiela Aileen",
+        "lastName":"Leno",
+        "birthday": "1988-08-07",
+        "emailAddress":"saleno@yahoo.com",
+        "mobileNumber":"45671234",
+        "address": "India",
+        "contactPerson":"Tisha Leno",
+        "contactPersonPhoneNumber":"123408"
+    }
+    ]
+}
